@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yicheng Cai"
-description              : "" # "In the quiet whisper of dawn's first light, Wishes flutter like leaves in flight. Dreams woven on the loom of night, May they find the sun, and hold it tight. "
+description              : "yccai AT psu.edu" # "In the quiet whisper of dawn's first light, Wishes flutter like leaves in flight. Dreams woven on the loom of night, May they find the sun, and hold it tight. "
 repository               : "ethan-nicholas-tsai/ethan-nicholas-tsai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OxUWwakAAAAJ"
-  email            : "yccai@psu.edu"
+  email            : # "yccai@psu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://yichengcai.org/tool"
   bitbucket        :
