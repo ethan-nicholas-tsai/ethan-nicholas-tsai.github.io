@@ -36,20 +36,34 @@ His current research interests include **AI for cybersecurity**, **computer secu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2023</div><img src='images/caiDepressionDetectionOnline2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+<!-- Replace with Featured Article -->
+
 [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
 
 **Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
 
-[**Project**](https://github.com/ethan-nicholas-tsai/DepressionDetection) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+Expert Systems with Applications (**ESWA 2023**) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - The paper is about using multivariate time series feature to characterize dynamic variations of user depressive symptoms, thereby enhancing the accuracy and interpretability in depression detection. 
+- [**Code**](https://github.com/ethan-nicholas-tsai/DepressionDetection) \| [**Dataset**](https://github.com/ethan-nicholas-tsai/SWDD)
 </div>
 </div>
 
-- [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
+- [Enhanced Representation Learning for Evolutionary Social Bot Detection by Combining Heterogeneous Information Fusion and Multi-Scale Feature Filtration](#)
+  - Fengyuan Liu, Haizhou Wang, **Yicheng Cai**, Wenxian Wang, Lijun Zhou, Rui Tang, Xingshu Chen.
+  - Under Review, 2024.  
+  - The paper is about using multi-modal feature fusion and multi-scale feature selection to achieve highly generalized social bot detection. 
+
+- [Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](#)
+  - **Yicheng Cai**, Haizhou Wang, Hao Cao, Wenxian Wang, Lei Zhang, and Xingshu Chen. 
+  - Under Review, 2024. 
+  - The paper is about enhancing spam movie review detection by exploiting both explicit and implicit relations between reviews in coordinated spamming attacks. 
+  - [**Code & Dataset**](https://github.com/ethan-nicholas-tsai/Spam-Movie-Review-Detection)
+
+<!-- - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
   - **Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
   - Expert Systems with Applications (**ESWA 2023**) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:Tyk-4Ss8FVUC'></span></strong>
   - The paper is about using multivariate time series feature to characterize dynamic variations of user depressive symptoms, thereby enhancing the accuracy and interpretability in depression detection. 
-  - [**Code**](https://github.com/ethan-nicholas-tsai/DepressionDetection) \| [**Dataset**](https://github.com/ethan-nicholas-tsai/SWDD) 
+  - [**Code**](https://github.com/ethan-nicholas-tsai/DepressionDetection) \| [**Dataset**](https://github.com/ethan-nicholas-tsai/SWDD)  -->
 
 <span class='anchor' id='honors-and-awards'></span>
 
