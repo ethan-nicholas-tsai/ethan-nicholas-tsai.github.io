@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yicheng Cai is an incoming Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
+Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
 Previously, he graduated from Sichuan University in 2024 with a *Master's Degree of Cybersecurity*, advised by Prof. <a href='http://www.cyber-wang.cn/'>Haizhou Wang</a>. Prior to that, he graduated summa cum laude (**Rank 1/130**) from Sichuan University in 2021 with a *Bachelor's Degree of Cybersecurity*.
 
 His current research interests include **AI for cybersecurity**, **computer security**, **AI security**. Previously, he researched on **societal computing**, **misinformation**, and **social media bot**. 
@@ -27,22 +27,35 @@ His current research interests include **AI for cybersecurity**, **computer secu
 <span class='anchor' id='news'></span>
 
 # 🔥 News 
-- *2024.08*: &nbsp;🎉🎉 He will join Penn State University as a Ph.D. student. 
+- *2024.08*: &nbsp;🎉🎉 I joined Penn State University as a Ph.D. student. 
+- *2024.08*: &nbsp;🎉🎉 Our paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion" was accepted by TIFS 2024!
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA 2023</div><img src='images/caiDepressionDetectionOnline2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'24</div><img src='images/caiDetectingSpamMovie2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](#)
+
+- **Yicheng Cai**, Haizhou Wang, Hao Cao, Wenxian Wang, Lei Zhang, and Xingshu Chen. 
+- IEEE Transactions on Information Forensics and Security (**TIFS 2024**, Accepted)
+- The paper is about enhancing spam movie review detection by exploiting both explicit and implicit relations between reviews in coordinated spamming attacks. 
+- [**Code & Dataset**](https://github.com/ethan-nicholas-tsai/Spam-Movie-Review-Detection)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA'23</div><img src='images/caiDepressionDetectionOnline2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- Replace with Featured Article -->
 
 [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
 
-**Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
-
-Expert Systems with Applications (**ESWA 2023**) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- **Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
+- Expert Systems with Applications (**ESWA 2023**) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - The paper is about using multivariate time series feature to characterize dynamic variations of user depressive symptoms, thereby enhancing the accuracy and interpretability in depression detection. 
 - [**Code**](https://github.com/ethan-nicholas-tsai/DepressionDetection) \| [**Dataset**](https://github.com/ethan-nicholas-tsai/SWDD)
 </div>
@@ -52,12 +65,6 @@ Expert Systems with Applications (**ESWA 2023**) <strong><span class='show_paper
   - Fengyuan Liu, Haizhou Wang, **Yicheng Cai**, Wenxian Wang, Lijun Zhou, Rui Tang, Xingshu Chen.
   - Under Review, 2024.  
   - The paper is about using multi-modal feature fusion and multi-scale feature selection to achieve highly generalized social bot detection. 
-
-- [Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](#)
-  - **Yicheng Cai**, Haizhou Wang, Hao Cao, Wenxian Wang, Lei Zhang, and Xingshu Chen. 
-  - Under Review, 2024. 
-  - The paper is about enhancing spam movie review detection by exploiting both explicit and implicit relations between reviews in coordinated spamming attacks. 
-  - [**Code & Dataset**](https://github.com/ethan-nicholas-tsai/Spam-Movie-Review-Detection)
 
 <!-- - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
   - **Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
