@@ -37,10 +37,10 @@ His current research interests include **AI for cybersecurity**, **computer secu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'24</div><img src='images/caiDetectingSpamMovie2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](#)
+[Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](https://doi.org/10.1109/TIFS.2024.3441947)
 
 - **Yicheng Cai**, Haizhou Wang, Hao Cao, Wenxian Wang, Lei Zhang, and Xingshu Chen. 
-- IEEE Transactions on Information Forensics and Security (**TIFS 2024**, Accepted)
+- IEEE Transactions on Information Forensics and Security (**TIFS 2024**) <strong><span class='show_paper_citations' data='OxUWwakAAAAJ:W7OEmFMy1HYC'></span></strong>
 - The paper is about enhancing spam movie review detection by exploiting both explicit and implicit relations between reviews in coordinated spamming attacks. 
 - [**Code & Dataset**](https://github.com/ethan-nicholas-tsai/Spam-Movie-Review-Detection)
 </div>
