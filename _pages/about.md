@@ -18,9 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
+Previously, he graduated from Sichuan University in 2024 with a *Master's Degree of Cybersecurity*, advised by Prof. <a href='http://www.cyber-wang.cn/'>Haizhou Wang</a>.
+
+His current research interests include **agentic system** and **AI agent security**. Previously, he researched on **societal computing** and **misinformation**.
+
+
+<!-- Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
 Previously, he graduated from Sichuan University in 2024 with a *Master's Degree of Cybersecurity*, advised by Prof. <a href='http://www.cyber-wang.cn/'>Haizhou Wang</a>. Prior to that, he graduated summa cum laude (**Rank 1/130**) from Sichuan University in 2021 with a *Bachelor's Degree of Cybersecurity*.
 
-His current research interests include **AI for cybersecurity**, **computer security**, **AI security**. Previously, he researched on **societal computing**, **misinformation**, and **social media bot**. 
+His current research interests include **AI for cybersecurity**, **computer security**, **AI security**. Previously, he researched on **societal computing**, **misinformation**, and **social media bot**.  -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -61,10 +67,10 @@ His current research interests include **AI for cybersecurity**, **computer secu
 </div>
 </div>
 
-- [Enhanced Representation Learning for Evolutionary Social Bot Detection by Combining Heterogeneous Information Fusion and Multi-Scale Feature Filtration](#)
+<!-- - [Enhanced Representation Learning for Evolutionary Social Bot Detection by Combining Heterogeneous Information Fusion and Multi-Scale Feature Filtration](#)
   - Fengyuan Liu, Haizhou Wang, **Yicheng Cai**, Wenxian Wang, Lijun Zhou, Rui Tang, Xingshu Chen.
   - Under Review, 2024.  
-  - The paper is about using multi-modal feature fusion and multi-scale feature selection to achieve highly generalized social bot detection. 
+  - The paper is about using multi-modal feature fusion and multi-scale feature selection to achieve highly generalized social bot detection.  -->
 
 <!-- - [Depression Detection on Online Social Network with Multivariate Time Series Feature of User Depressive Symptoms](https://doi.org/10.1016/j.eswa.2023.119538)
   - **Yicheng Cai**, Haizhou Wang, Huali Ye, Yanwen Jin, Wei Gao
@@ -72,14 +78,14 @@ His current research interests include **AI for cybersecurity**, **computer secu
   - The paper is about using multivariate time series feature to characterize dynamic variations of user depressive symptoms, thereby enhancing the accuracy and interpretability in depression detection. 
   - [**Code**](https://github.com/ethan-nicholas-tsai/DepressionDetection) \| [**Dataset**](https://github.com/ethan-nicholas-tsai/SWDD)  -->
 
-<span class='anchor' id='honors-and-awards'></span>
+<!-- <span class='anchor' id='honors-and-awards'></span> -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *Sep. 2021 - Jun. 2024*, First Class Merit Based Fellowship (Top 3%)
 - *May. 2021*, Honor Graduate of Sichuan Province (Top 3%)
 - *Aug. 2020*, **[National College Student Information Security Contest](http://117.78.33.202/) (First Prize, Top 5%)**
 <!-- - *Mar. 2020*, National Undergraduate Training Program for Innovation and Entrepreneurship (Excellent) -->
-- *Nov. 2018*, **National Scholarship (Top 1%)**
+<!-- - *Nov. 2018*, **National Scholarship (Top 1%)** -->
 <!-- - More in [CV](https://ethan-nicholas-tsai.github.io/files/YichengCai_CV.pdf) -->
 
 <!-- # 📖 Educations -->
