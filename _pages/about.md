@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
-Previously, he graduated from Sichuan University in 2024 with a *Master's Degree of Cybersecurity*, advised by Prof. <a href='http://www.cyber-wang.cn/'>Haizhou Wang</a>.
+Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a>.
+His research interests include mental health, societal computing, and privacy.
+<!-- and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
+Previously, he graduated from Sichuan University in 2024 with a *Master's Degree of Cybersecurity*, advised by Prof. <a href='http://www.cyber-wang.cn/'>Haizhou Wang</a>. -->
 
-His current research interests include **agentic system** and **AI agent security**. Previously, he researched on **societal computing** and **misinformation**.
+<!-- His current research interests include **agentic system** and **AI agent security**. Previously, he researched on **societal computing** and **misinformation**. -->
 
 
 <!-- Yicheng Cai is a first-year Ph.D. student in College of Information Sciences and Technology @ Penn State University, advised by Prof. <a href='https://s2.ist.psu.edu/pliu/'>Peng Liu</a> and part of the <a href='https://s2.ist.psu.edu/index.html'>Cyber Security Lab</a>.
@@ -34,13 +36,13 @@ His current research interests include **AI for cybersecurity**, **computer secu
 
 # 🔥 News 
 - *2024.08*: &nbsp;🎉🎉 I joined Penn State University as a Ph.D. student. 
-- *2024.08*: &nbsp;🎉🎉 Our paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion" was accepted by TIFS 2024!
+<!-- - *2024.08*: &nbsp;🎉🎉 Our paper "Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion" was accepted by TIFS 2024! -->
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'24</div><img src='images/caiDetectingSpamMovie2024.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS'24</div><img src='images/caiDetectingSpamMovie2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Detecting Spam Movie Review under Coordinated Attack with Multi-View Explicit and Implicit Relations Semantics Fusion](https://doi.org/10.1109/TIFS.2024.3441947)
@@ -50,7 +52,7 @@ His current research interests include **AI for cybersecurity**, **computer secu
 - The paper is about enhancing spam movie review detection by exploiting both explicit and implicit relations between reviews in coordinated spamming attacks. 
 - [**Code & Dataset**](https://github.com/ethan-nicholas-tsai/Spam-Movie-Review-Detection)
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESWA'23</div><img src='images/caiDepressionDetectionOnline2023.png' alt="sym" width="100%"></div></div>
@@ -107,7 +109,7 @@ His current research interests include **AI for cybersecurity**, **computer secu
 <span class='anchor' id='services'></span>
 
 # 🛡️ Services
-- Journal Reviewer: IEEE TCSS 24';
+- Journal Reviewer: IEEE TCSS 24'; IPM 25';
 
 <!-- <span class='anchor' id='teaching'></span> -->
 
